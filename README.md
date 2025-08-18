@@ -9,11 +9,11 @@ Once deployed via GitHub Pages, access the guide here:
 
 ## ✨ Featured Links
 
-* **Thailand – Accommodation \& Flights Guide 2025**
-* **Thailand – Attractions Guide 2025**
-* **Thailand – Road Transport Guide 2025**
-* **Thailand – Task List Guide 2025**
-* **Thailand – Packing Guide 2025**
+* **https://tw-thailand.github.io/GJN-2025-accommodation-flights**
+* **https://tw-thailand.github.io/GJN-2025-attractions**
+* **https://tw-thailand.github.io/GJN-2025-packing**
+* **https://tw-thailand.github.io/GJN-2025-road-transport**
+* **https://tw-thailand.github.io/GJN-2025-tasks**
 
 ## 🔧 How to Use
 
