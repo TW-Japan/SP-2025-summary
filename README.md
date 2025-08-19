@@ -1,19 +1,19 @@
-# 📝 Thailand Summary 2025
+# 📝 South Korea Summary 2025
 
 This repository contains a mobile-friendly, collapsible summary containing links for your upcoming Thailand trip in 2025.
 
 ## ✅ Live Site
 
 Once deployed via GitHub Pages, access the guide here:  
-**https://tw-thailand.github.io/GJN-2025-summary/**
+**https://tw-south-korea.github.io/GJN-2025-summary/**
 
 ## ✨ Featured Links
 
-* **https://tw-thailand.github.io/GJN-2025-accommodation-flights**
-* **https://tw-thailand.github.io/GJN-2025-attractions**
-* **https://tw-thailand.github.io/GJN-2025-packing**
-* **https://tw-thailand.github.io/GJN-2025-road-transport**
-* **https://tw-thailand.github.io/GJN-2025-tasks**
+* **https://tw-south-korea.github.io/GJN-2025-accommodation-flights**
+* **https://tw-south-korea.github.io/GJN-2025-attractions**
+* **https://tw-south-korea.github.io/GJN-2025-packing**
+* **https://tw-south-korea.github.io/GJN-2025-road-transport**
+* **https://tw-south-korea.github.io/GJN-2025-tasks**
 
 ## 🔧 How to Use
 
