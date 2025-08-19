@@ -10,9 +10,9 @@ Once deployed via GitHub Pages, access the guide here:
 ## ✨ Featured Links
 
 * **https://tw-south-korea.github.io/GJN-2025-accommodation-flights**
-* **https://tw-south-korea.github.io/GJN-2025-attractions**
+* **https://tw-south-korea.github.io/GJN-2025-activities**
 * **https://tw-south-korea.github.io/GJN-2025-packing**
-* **https://tw-south-korea.github.io/GJN-2025-road-transport**
+* **https://tw-south-korea.github.io/GJN-2025-transport**
 * **https://tw-south-korea.github.io/GJN-2025-tasks**
 
 ## 🔧 How to Use
