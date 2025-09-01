@@ -1,19 +1,20 @@
-# 📝 South Korea Summary 2025
+# 🗂️ Japan – Steph and Sarah's Trip Summary (May 2025)
 
-This repository contains a mobile-friendly, collapsible summary containing links for your upcoming Thailand trip in 2025.
+This repository contains a mobile-friendly, collapsible summary containing links for your upcoming Japan trip in 2025.
 
 ## ✅ Live Site
 
 Once deployed via GitHub Pages, access the guide here:  
-**https://tw-south-korea.github.io/GJN-2025-summary/**
+**https://tw-Japan.github.io/SP-2025-summary/**
 
 ## ✨ Featured Links
 
-* **https://tw-south-korea.github.io/GJN-2025-accommodation-flights**
-* **https://tw-south-korea.github.io/GJN-2025-activities**
-* **https://tw-south-korea.github.io/GJN-2025-packing**
-* **https://tw-south-korea.github.io/GJN-2025-transport**
-* **https://tw-south-korea.github.io/GJN-2025-tasks**
+* **https://tw-japan.github.io/SP-2025-accommodation-flights**
+* **https://tw-japan.github.io/SP-2025-activities**
+* **https://tw-japan.github.io/SP-2025-eSIM/**
+* **https://tw-japan.github.io/SP-2025-packing**
+* **https://tw-japan.github.io/SP-2025-tasks**
+* **https://tw-japan.github.io/SP-2025-transport**
 
 ## 🔧 How to Use
 
