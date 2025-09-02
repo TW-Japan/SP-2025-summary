@@ -58,5 +58,14 @@
     <li><a href="https://tw-japan.github.io/SP-2025-packing/" target="_blank">🧳 Japan – Steph and Sarah's Packing Guide (2025)</a></li>
     <li><a href="https://tw-japan.github.io/SP-2025-transport/" target="_blank">🚆 Japan – Steph and Sarah's Transport Guide (May 2025)</a></li>
   </ul>
+
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('./service-worker.js')
+      .then(reg => console.log('Service Worker registered:', reg))
+      .catch(err => console.error('Service Worker registration failed:', err));
+  }
+</script>
+
 </body>
 </html>
