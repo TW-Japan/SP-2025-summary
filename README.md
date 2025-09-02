@@ -1,4 +1,4 @@
-# 🗂️ Japan – Steph and Sarah's Trip Summary (May 2025)
+# 🗂️ Japan – Steph and Sarah's Trip Summary (Sep 2025)
 
 This repository contains a mobile-friendly, collapsible summary containing links for your upcoming Japan trip in 2025.
 
